@@ -84,7 +84,6 @@ Before running the script, ensure the following tools are installed on your syst
 *   **bc: command not found**: If you see an error like this, it means bc is not installed on your system. Follow the instructions in the **Requirements** section to install it.
     
 *   **Permission Denied**: If you encounter a "Permission Denied" error, make sure you’ve made the script executable with chmod +x.
-*   
 
 ## **Sample Output** ##
 ```shell
